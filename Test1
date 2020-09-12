@@ -1,3 +1,5 @@
 print("Hello, MIPT!")
 print("Hello, Eph!")
+print("Something")
+print('Something else')
 print("Chunk")
