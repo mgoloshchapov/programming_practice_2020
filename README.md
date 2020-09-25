@@ -26,5 +26,6 @@
  
 #### Запись лекций - [тут](https://drive.google.com/drive/folders/1zCgm28PFF380_6VACefqV_mrtGxDOW3j)
 
+#### Таблица успеваемости [тут](https://docs.google.com/spreadsheets/d/1sor696JuuE6b6e6SUpgEyMz_EsxiGde9iK1CpGgmY0U/edit#gid=0)
 
 
