@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+import numpy as np
+x = [100,190,245,295,385,515,440,370,255,200,110]
+y = [520,700,990,1290,1540,2020,2310,1940,1500,1060,570]
+a, b = np.polyfit(x,y, deg = 1, cov = True)
+
+print(a[0])
+# plt.errorbar(x,y,xerr = 5,yerr = 30)
+# plt.plot(x,a*x+b)
+# plt.show()

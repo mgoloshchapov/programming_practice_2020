@@ -1,0 +1,7 @@
+import numpy as np
+x = np.arange(-10,10,0.01)
+def f(x):
+    return np.log((np.e**(1/(1+np.sin(x)))/(5/4+1/(x**15)))/np.log(1+x**2))
+plt.plot(x,f(x))
+plt.show()
+print(f(1),f(10),f(100))
