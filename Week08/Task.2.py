@@ -1,2 +1,5 @@
 import numpy as np
-print(np.arange(2, 76, 2))
+m = np.arange(2, 76)
+print(m[m % 2 == 1])
+m[m % 2 == 1] = -1
+print(m)
